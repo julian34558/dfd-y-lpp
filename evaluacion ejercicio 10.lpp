@@ -1,0 +1,20 @@
+entero a,b,c,d 
+inicio
+//eres el mejor 
+escriba " numeros impares desde -10 hasta 10"
+llamar nueva_linea
+escriba "digite cuantas veces repetira los impares "
+llamar nueva_linea
+lea a
+c<--11
+para b<-1 hasta a haga
+escriba "Se repetira ", b, " veces"
+llamar nueva_linea
+c<--11
+mientras c<9 haga
+c<-c+2
+escriba c
+llamar nueva_linea
+fin mientras
+fin para
+fin

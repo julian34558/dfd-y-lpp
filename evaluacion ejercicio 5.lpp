@@ -1,0 +1,36 @@
+cadena[50] ab
+
+//eres el mejor 
+inicio
+escriba " *****************+digite H para obtener 5 hola******************* "
+llamar nueva_linea 
+escriba "*********************** digite A para obtener 6 alumno********************** "
+llamar nueva_linea
+lea ab
+si (ab="H") o (ab="h") entonces
+escriba "hola"
+llamar nueva_linea
+escriba "hola"
+llamar nueva_linea
+escriba "hola"
+llamar nueva_linea
+escriba "hola"
+llamar nueva_linea
+escriba "hola"
+llamar nueva_linea
+fin si
+si (ab="A") o (ab="a") entonces
+escriba "alumno"
+llamar nueva_linea
+escriba "alumno"
+llamar nueva_linea
+escriba "alumno"
+llamar nueva_linea
+escriba "alumno"
+llamar nueva_linea
+escriba "alumno"
+llamar nueva_linea
+escriba "alumno"
+llamar nueva_linea
+fin si
+fin

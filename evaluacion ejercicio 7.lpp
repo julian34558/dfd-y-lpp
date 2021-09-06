@@ -1,0 +1,13 @@
+entero a,b
+
+inicio
+escriba "ingrese dos numeros para unirlos  "
+llamar nueva_linea 
+escriba "ingrese el numero 1 "
+lea a 
+llamar nueva_linea 
+escriba "ingrese el numero 2 "
+lea b
+llamar nueva_linea 
+escriba "el numero concatenado es " ,a,b 
+fin             

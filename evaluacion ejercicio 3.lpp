@@ -1,0 +1,24 @@
+entero i,j
+
+inicio
+         escriba " **************************tablas de multiplicacion************************* "
+      llamar nueva_linea 
+         escriba " ***************************desde el 2 hasta el 10*************************** "
+llamar nueva_linea 
+  i<-2
+  j<-1
+   
+//eres el mejor 
+     mientras (i<=10)haga
+para i<-2 hasta 10 haga 
+        escriba " **** la tabla del  ",i," es ****"
+llamar nueva_linea 
+llamar nueva_linea
+para j<-1 hasta 10 haga           
+        escriba i, "x" ,j," es: ",i*j
+llamar nueva_linea 
+fin para
+llamar nueva_linea 
+       fin para          
+    fin mientras 
+fin

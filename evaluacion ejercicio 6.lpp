@@ -1,0 +1,18 @@
+entero a, b
+inicio
+//eres el mejor)//
+escriba "sumas entre 2 y 5-"
+llamar nueva_linea
+escriba " Ingrese el primer numero desde el 2 y 5 "
+lea a
+llamar nueva_linea 
+escriba " Ingrese el segundo numero desde el 2 y 5 "
+lea b
+si (a>=2) y (a<=5) y (b>=2) y (b<=5) entonces
+llamar nueva_linea
+escriba "La suma en total de: ", a, " + ", b, " = ", a+b
+sino
+escriba "los numeros digitados son superiores a 5 "
+fin si
+fin
+	

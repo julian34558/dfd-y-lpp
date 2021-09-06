@@ -1,0 +1,15 @@
+arreglo [50] de entero num
+entero a, mayor, posi
+
+inicio
+mayor<-0
+para a<-1 hasta 5 haga    
+escriba "digite  el numero en la posocion ",a," "
+lea num [a]
+si num [1]>mayor entonces 
+mayor<-num[a]
+posi<-a
+fin si 
+fin para 
+escriba "el numero mayor es",mayor," y esta es la posicion ",posi
+fin
